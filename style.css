@@ -1,0 +1,102 @@
+body{
+    background-color: lightpink;
+}
+.javan1{
+    display: inline;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin: 390px 556px;
+    clip-path: polygon(70% 30%, 51.33% 42%, 72.34% 50.34%, 70% 30%);
+    background-color: whitesmoke;
+}
+.javan2{
+    display: inline;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin: 344px 556px;
+    clip-path: polygon(54.67% 37.33%, 51.67% 58.01%, 70.34% 45.67%, 54.34% 37.33%);
+    background-color: lightgray;
+}
+.javan3{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 343px 628px;
+clip-path: polygon(5.67% 27.00%, 5.67% 27.01%, 46.34% 45.67%, 32.34% 6.99%);
+background-color:whitesmoke;
+}
+.javan4{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 416px 576px;
+clip-path: polygon(26.00% 4.00%, 46% 29.01%, 49% 14.34%, 26.34% 3.99%);
+background-color:gray;
+}
+.javan5{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 269px 583px;
+clip-path: polygon(21% 51.66%, 48% 31.34%, 21.67% 25.67%, 21.01% 51.66%);
+background-color: white;
+}
+.javan6{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 202px 652px;
+clip-path: polygon(25.34% 53.66%, 25.33% 53.33%, 39.34% 31.34%, -1.99% 48.32%);
+background-color: lightgray;
+}
+.javan7{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 213px 721px;
+clip-path: polygon(16.35% 27.68%, 1.33% 50.66%, 30.01% 52.00%, 16.67% 27.64%);
+background-color: white;
+}
+.javan8{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 210px 771px;
+clip-path: polygon(21.68% 21.35%, -1.34% 28.32%, 13.34% 53.01%, 22.01% 21.64%);
+background-color: whitesmoke;
+}
+.javan9{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 208px 813px;
+clip-path: polygon(15.69% 44.35%, 7.66% 22.98%, -0.65% 54.34%, 15.68% 44.64%);
+background-color:  burlywood;
+}
+.javan10{
+    display: inline;
+position: absolute;
+width: 500px;
+height: 500px;
+margin: 291px 725px;
+clip-path: polygon(-0.11% 14.55%, 7.46% 36.38%, 7.75% 36.14%, 16.68% 15.04%);
+background-color: white;
+}
+.javan11{
+    display: inline;
+position: absolute;
+width: 500px;
+height: 500px;
+margin: 291px 725px;
+clip-path: polygon(-0.11% 14.55%, 7.46% 36.38%, 7.75% 36.14%, 16.68% 15.04%);
+background-color: rgb(255, 231, 187);
+}
